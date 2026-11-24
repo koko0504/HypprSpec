@@ -1,3 +1,6 @@
+[Hypr Demo.webm](https://github.com/user-attachments/assets/f4b873d8-e343-4155-b0a3-b7b62bc0de51)
+
+
 # Physiology-Guided Cultivar-Invariant Hyperspectral Learning for Grapevine Stress Diagnosis
 
 This repository investigates whether hyperspectral signatures can distinguish **healthy grapevine leaves from leaves affected by Flavescence dorée (FD)** when the model is evaluated on grape cultivars it did not see during training. It also examines whether auxiliary physiological targets—chlorophyll, flavonol, and the Nitrogen Balance Index (NBI)—improve this cross-cultivar generalization, and whether cultivar-adversarial learning can reduce cultivar-specific information in the learned representation.
