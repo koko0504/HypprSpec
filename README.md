@@ -153,6 +153,8 @@ Project 2 writes these reports and figures to `/kaggle/working` (or to the path 
 | `fig_rq1_within_vs_loco.png` | Figure comparing within-domain F1 with LOCO F1 and its 95% interval. |
 
 Project 2 also prints the selected best classical preprocessing variant, model names, number of LOCO test leaves, fold counts, per-cultivar scores, and the comparison results in the notebook output.
+<img width="3600" height="1680" alt="fig_per_cultivar_accuracy" src="https://github.com/user-attachments/assets/3731a4ec-f11c-468d-ba26-14125f3862c1" />
+
 
 ## Metadata and data validation — required
 
